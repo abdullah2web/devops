@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+<include a CircleCI status badge, https://circleci.com/gh/abdullah2web/workflows/devops>
 
 ## Project Overview
 
